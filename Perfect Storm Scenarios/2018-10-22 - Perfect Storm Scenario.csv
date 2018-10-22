@@ -1,0 +1,44 @@
+Player,Region,OriginalPlace,Place,OriginalPoints,Points,Event,Type,StartDate,EndDate,RegionLock,Place,PointsWon
+ECHO FOX|Tokido,Asia,1,1,3461,3461,,,,,,,
+FUDOH|Fujimura,Asia,2,2,2841,2841,,,,,,,
+MOUSESPORTS|Problem X,Europe,3,3,2701,2701,,,,,,,
+FAV|Sako,Asia,4,4,2241,2241,,,,,,,
+CYG BST|Fuudo,Asia,5,5,2141,2141,,,,,,,
+UYU|NL,Asia,6,6,1842,1842,,,,,,,
+UYU|Oil King,Asia,7,7,1840,1840,,,,,,,
+ECHO FOX|Justin Wong,North America,8,8,1711,1711,,,,,,,
+CYG BST|Daigo,Asia,9,9,1602,1602,,,,,,,
+PG|Infiltration,Asia,10,10,1600,1600,,,,,,,
+GHOST|NuckleDu,North America,11,11,1541,1541,,,,,,,
+BJK|Luffy,Europe,12,12,1491,1491,,,,,,,
+GGEA|Toi,North America,33,13,431,1481,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,7,100
+GGEA|Toi,North America,33,13,431,1481,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,7,100
+GGEA|Toi,North America,33,13,431,1481,Online Event: North America East Two,Online,11/10/2018 12:00:00 AM,11/10/2018 12:00:00 AM,North America,1,150
+GGEA|Toi,North America,33,13,431,1481,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,1,700
+Brolynho,Latin America,32,14,431,1331,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,7,100
+Brolynho,Latin America,32,14,431,1331,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,1,700
+Brolynho,Latin America,32,14,431,1331,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,7,100
+ATLAS BEAR|IamChuan,Asia,34,15,420,1320,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,1,700
+ATLAS BEAR|IamChuan,Asia,34,15,420,1320,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,7,100
+ATLAS BEAR|IamChuan,Asia,34,15,420,1320,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,7,100
+RISE|Caba,Latin America,13,16,1172,1172,,,,,,,
+NASR|Big Bird,Europe,14,17,1152,1152,,,,,,,
+ATLAS BEAR|StormKUBO,Asia,28,18,591,1081,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,3,200
+ATLAS BEAR|StormKUBO,Asia,28,18,591,1081,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,5,130
+ATLAS BEAR|StormKUBO,Asia,28,18,591,1081,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,4,160
+NVD|Phenom,Europe,15,19,1072,1072,,,,,,,
+RAZER|Xian,Asia,16,20,1063,1063,,,,,,,
+CYCLOPS|Dogura,Asia,29,21,501,1061,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,5,130
+CYCLOPS|Dogura,Asia,29,21,501,1061,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,4,160
+CYCLOPS|Dogura,Asia,29,21,501,1061,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,2,270
+NVD|Momi,Europe,31,22,461,1061,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,2,270
+NVD|Momi,Europe,31,22,461,1061,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,5,130
+NVD|Momi,Europe,31,22,461,1061,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,3,200
+Mago,Asia,27,23,593,1053,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,5,130
+Mago,Asia,27,23,593,1053,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,3,200
+Mago,Asia,27,23,593,1053,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,5,130
+FNATIC|Akainu,Europe,30,24,493,1053,Canada Cup 2018,Premier,10/26/2018 12:00:00 AM,10/28/2018 12:00:00 AM,,4,160
+FNATIC|Akainu,Europe,30,24,493,1053,LATAM Regional Finals 2018,Premier,11/2/2018 12:00:00 AM,11/4/2018 12:00:00 AM,,2,270
+FNATIC|Akainu,Europe,30,24,493,1053,North American Regional Finals at Red Bull Conquest,Premier,11/17/2018 12:00:00 AM,11/18/2018 12:00:00 AM,,5,130
+RED BULL|Bonchan,Asia,17,25,1012,1012,,,,,,,
+QANBA DOUYU|Xiao Hai,Asia,18,26,1000,1000,,,,,,,
